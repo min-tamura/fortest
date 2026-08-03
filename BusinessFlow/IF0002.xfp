@@ -51,10 +51,12 @@
 					<mp:Option layer="レイヤー1" name="inputHideFields"/>
 					<mp:Option layer="レイヤー1" name="outputHideFields"/>
 					<mp:Function fb:x="186" fb:y="84" name="Const1" type="CONST">
-						<fb:Description height="17" visible="true" width="129" x="186" y="120">
-							<fb:Property name="Text">フローデザイナーBで修正</fb:Property>
+						<fb:Description height="99" visible="true" width="169" x="186" y="120">
+							<fb:Property name="Text">フローデザイナーAで追加修正&#xd;
+フローデザイナーBで修正</fb:Property>
 						</fb:Description>
-						<mp:Property name="Data">フローデザイナーBで修正</mp:Property>
+						<mp:Property name="Data">フローデザイナーAで追加修正&#xd;
+フローデザイナーBで修正</mp:Property>
 						<mp:Property name="DataType">String</mp:Property>
 						<mp:Property name="EnableMetaCharacter">false</mp:Property>
 					</mp:Function>
